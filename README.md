@@ -1,1 +1,1 @@
-# Rice---seed-disease-CNN
+# Rice-seed-disease-CNN
